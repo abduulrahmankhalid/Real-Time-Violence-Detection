@@ -8,9 +8,10 @@
 ## Expirements
 ### We Implemented Two Prediction Functions To Test Our Model On
 #### First Function Perform Frame By Frame Prediction For The Video.
-https://user-images.githubusercontent.com/76521677/192981026-cfafc4d4-72af-4912-a206-cc1e8a902f94.mp4
 
 
 
-https://user-images.githubusercontent.com/76521677/192981135-644eb525-5208-4998-8169-b034f23d5ec3.mp4
+#### Second Function Perform Prediction For The Whole Video..
 
+![Output-Test-Violence-Video](https://user-images.githubusercontent.com/76521677/192982850-07593c8d-a674-4f2f-a80d-924ae318a9d7.gif)
+![Output-Test-NonViolence-Video](https://user-images.githubusercontent.com/76521677/192983491-64b20a82-326c-48cb-8932-8e59f8ccdbcc.gif)
