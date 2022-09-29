@@ -7,4 +7,4 @@
 
 ## Expirements
 ### We Implemented Two Prediction Functions To Test Our Model On
-#### First Function Perform Frame By Frame Prediction For The Video. [Prediction] (https://github.com/abduulrahmankhalid/Real-Time-Violence-Detection/blob/main/Output-Test-NonViolence-Video.mp4)
+#### First Function Perform Frame By Frame Prediction For The Video. [Prediction](https://github.com/abduulrahmankhalid/Real-Time-Violence-Detection/blob/main/Output-Test-NonViolence-Video.mp4)
