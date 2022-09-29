@@ -64,16 +64,9 @@ def frames_extraction(video_path):
 
 ## Model Building
 
-#### Metrics considered for Model Evaluation
-*Accuracy, Precision, Recall and F1 Score*
-- Accuracy: What proportion of actual positives and negatives is correctly classified?
-- Precision: What proportion of predicted positives are truly positive ?
-- Recall: What proportion of actual positives is correctly classified ?
-- F1 Score : Harmonic mean of Precision and Recall
 
 ### Architectures
 Here we built many models with different Architectures as we were searching for the best model.
-- *Convnet + Bidirectional-LSTM* accuracy: 90% - 92%
 
-- *Agg-16 + Bidirectional-LSTM* accuracy: 84% - 86%
+- *Convnet + Bidirectional-LSTM* accuracy: 90% - 92%
 - *MobileNet V2 + Bidirectional-LSTM* accuracy: 94% - 97%
