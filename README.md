@@ -7,15 +7,15 @@
 
 ## Expirements
 ## We Implemented Two Prediction Functions To Test Our Model On
-### - First Function Perform Frame By Frame Prediction For The Video.
+### -First Function Perform Frame By Frame Prediction For The Video.
 
 ![Output-Test-Violence-Video](https://user-images.githubusercontent.com/76521677/192982850-07593c8d-a674-4f2f-a80d-924ae318a9d7.gif)
 
 ![Output-Test-NonViolence-Video](https://user-images.githubusercontent.com/76521677/192983491-64b20a82-326c-48cb-8932-8e59f8ccdbcc.gif)
 
-### - Second Function Perform Prediction For The Whole Video.
+### -Second Function Perform Prediction For The Whole Video.
 
 ![image](https://user-images.githubusercontent.com/76521677/192984158-6b942c47-a0a3-409a-9b57-5795b3e548ad.png)
 ![image](https://user-images.githubusercontent.com/76521677/192984193-2a0e11e5-6b2a-4b40-81bc-2227d52853c5.png)
 
-#### - Refrences : [CNN-BiLSTM Model for Violence Detection in Smart Surveillance](https://link.springer.com/article/10.1007/s42979-020-00207-x#Sec15)
+#### -Refrences : [CNN-BiLSTM Model for Violence Detection in Smart Surveillance](https://link.springer.com/article/10.1007/s42979-020-00207-x#Sec15)
