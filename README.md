@@ -73,7 +73,7 @@ def frames_extraction(video_path):
 
 ### Architectures
 Here we built many models with different Architectures as we were searching for the best model.
-- *Convnet + Bidirectional-LSTM* accuracy: 78% - 82%
+- *Convnet + Bidirectional-LSTM* accuracy: 90% - 92%
 
 - *Agg-16 + Bidirectional-LSTM* accuracy: 84% - 86%
 - *MobileNet V2 + Bidirectional-LSTM* accuracy: 94% - 97%
