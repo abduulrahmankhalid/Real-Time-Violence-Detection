@@ -18,4 +18,4 @@
 ![image](https://user-images.githubusercontent.com/76521677/192984158-6b942c47-a0a3-409a-9b57-5795b3e548ad.png)
 ![image](https://user-images.githubusercontent.com/76521677/192984193-2a0e11e5-6b2a-4b40-81bc-2227d52853c5.png)
 
-
+#### Refrences : [CNN-BiLSTM Model for Violence Detection in Smart Surveillance](https://link.springer.com/article/10.1007/s42979-020-00207-x#Sec15)
